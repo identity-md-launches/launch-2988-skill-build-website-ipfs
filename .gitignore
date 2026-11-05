@@ -1,0 +1,7 @@
+# Ignore-file path budget: this one root file, at most 1024 bytes.
+# Static production dist/ is intentionally included in the submission.
+**/node_modules/
+**/.vite/
+**/.cache/
+**/*.tsbuildinfo
+test/scratch/

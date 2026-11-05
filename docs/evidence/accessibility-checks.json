@@ -1,0 +1,113 @@
+{
+  "viewports": [
+    {
+      "width": 320,
+      "overflow": false,
+      "homeActionBottom": 450
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "homeActionBottom": 392
+    },
+    {
+      "width": 700,
+      "overflow": false,
+      "homeActionBottom": 392
+    },
+    {
+      "width": 900,
+      "overflow": false,
+      "homeActionBottom": 485
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "homeActionBottom": 519
+    }
+  ],
+  "axe": [
+    {
+      "name": "home",
+      "width": 390,
+      "violations": [],
+      "manualReview": [
+        "color-contrast"
+      ]
+    },
+    {
+      "name": "detail",
+      "width": 390,
+      "violations": [],
+      "manualReview": [
+        "color-contrast"
+      ]
+    },
+    {
+      "name": "wallet",
+      "width": 390,
+      "violations": [],
+      "manualReview": [
+        "color-contrast"
+      ]
+    },
+    {
+      "name": "group",
+      "width": 390,
+      "violations": [],
+      "manualReview": [
+        "color-contrast"
+      ]
+    },
+    {
+      "name": "dialog",
+      "width": 390,
+      "violations": [],
+      "manualReview": [
+        "color-contrast"
+      ]
+    },
+    {
+      "name": "home",
+      "width": 1440,
+      "violations": [],
+      "manualReview": [
+        "color-contrast"
+      ]
+    },
+    {
+      "name": "detail",
+      "width": 1440,
+      "violations": [],
+      "manualReview": [
+        "color-contrast"
+      ]
+    },
+    {
+      "name": "wallet",
+      "width": 1440,
+      "violations": [],
+      "manualReview": [
+        "color-contrast"
+      ]
+    },
+    {
+      "name": "group",
+      "width": 1440,
+      "violations": [],
+      "manualReview": [
+        "color-contrast"
+      ]
+    },
+    {
+      "name": "dialog",
+      "width": 1440,
+      "violations": [],
+      "manualReview": []
+    }
+  ],
+  "focus": {
+    "id": "lookup",
+    "outline": "2px"
+  }
+}
